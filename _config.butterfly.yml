@@ -74,7 +74,7 @@ default_top_img: /images/bg.svg
 index_img: /images/bg.svg
 
 # The banner image of archive page
-archive_img: /images/loading.git
+archive_img:
 
 # Note: tag page, not tags page
 tag_img:
