@@ -106,7 +106,7 @@ cover:
   aside_enable: true
   archives_enable: true
   # When cover is not set, the default cover is displayed
-  default_cover:
+  default_cover: /images/animal/deer.svg
   # - xxx.jpg
 
 # Replace Broken Images
@@ -289,15 +289,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 思来想去，做个俗人！
     button:
       enable: true
       icon: fab fa-github
-      text: 关注博主
+      text: why-nieh
       link: https://github.com/why-nieh
   card_announcement:
     enable: true
-    content: 思来想去，做个俗人！
+    content: 随便写点，记录一下！
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -479,7 +479,7 @@ math:
 search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
-  use:
+  use: local_search
   placeholder: 请输入关键字
 
   # Algolia Search
