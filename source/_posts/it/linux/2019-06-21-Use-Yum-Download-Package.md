@@ -1,9 +1,10 @@
 ---
-layout: wiki
 title: Use Yum Download Package
+date: 2019-06-21
 categories: [IT, Linux]
+tags: [Yum]
 description: use yum down ...
-keywords: centos, redhat, yum, down
+keywords: centos, redhat, yum, download
 ---
 ## Use Yum Download Package
 

@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Java Web Service
+date: 2018-09-02
 categories: [IT, Java]
+tags: [WebService]
 description: Java WebService
 keywords: java, WebService
-tags: [Java, 'WebService']
 ---
 
 ## 一、使用 JDK 自带方法

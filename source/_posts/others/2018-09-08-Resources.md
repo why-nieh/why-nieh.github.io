@@ -1,13 +1,14 @@
 ---
-layout: post
 title: 资源
+date: 2018-09-08
+updated: 2026-06-27
 categories: [杂记]
-description: 资源收藏
-keywords: E-Book, Epub, BaiduNetDisk
-top_img: /images/bg.svg
+tags: [资源]
+description: 资源
+keywords: 资源
 ---
 
-## 1. E-Book Share
+##  E-Book Share
 
 + [bookset.me](https://bookset.me/)
 + [epubee.com](http://cn.epubee.com/)

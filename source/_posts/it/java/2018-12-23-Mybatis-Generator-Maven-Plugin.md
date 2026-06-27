@@ -1,10 +1,10 @@
 ---
-layout: post
 title: MyBatis Generator
+date: 2018-12-23
 categories: [IT, Java]
+tags: [MyBatis]
 description: Use MyBatis Generator
 keywords: Java, MyBatis
-tags: [Java, MyBatis]
 ---
 
 ## MyBatis Generator Config

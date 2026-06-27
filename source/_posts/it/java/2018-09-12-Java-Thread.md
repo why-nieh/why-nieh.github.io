@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Java Thread
+date: 2018-09-12
 categories: [IT, Java]
-description: 读书笔记
+tags: [Thread]
+description: use java create thread
 keywords: Java, Thread
-tags: [Java, Thread]
 ---
 Thread 
 ---

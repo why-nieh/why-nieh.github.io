@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Docker Run MySQL
+date: 2018-10-05
 categories: [IT, Linux]
+tags: [MySQL, Docker]
 description: Use MySQL in Docker
 keywords: Docker, MySQL
 ---
