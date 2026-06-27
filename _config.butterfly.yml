@@ -23,6 +23,7 @@ menu:
   标签: /tags                    || fa-solid fa-tags
   分类: /categories              || fa-solid fa-layer-group
   关于: /about                   || fa-solid fa-user-graduate
+  Github: https://github.com/why-nieh/why-nieh.github.io   || fab fa-github
 # Home: / || fas fa-home
 # List||fas fa-list:
 #   Music: /music/ || fas fa-music
@@ -51,8 +52,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
- fab fa-github: https://github.com/why-nieh || Github || '#24292e'
- fas fa-envelope: mailto:niehxiaobin@163.com || Email || '#4a7dbe'
+# fab fa-github: https://github.com/why-nieh || Github || '#24292e'
+# fas fa-envelope: mailto:niehxiaobin@163.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
@@ -208,7 +209,7 @@ post_copyright:
   enable: true
   decode: false
   author_href: https://github.com/why-nieh/why-nieh.github.io
-  license: MIT
+  license:
   license_url:
 
 # Sponsor/reward
