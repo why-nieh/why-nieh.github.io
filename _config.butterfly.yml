@@ -459,7 +459,7 @@ busuanzi:
 math:
   # Choose: mathjax, katex
   # Leave it empty if you don't need math
-  use:
+  use: mathjax
   per_page: true
   hide_scrollbar: false
 
@@ -857,7 +857,7 @@ activate_power_mode:
 # canvas_ribbon
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: true
+  enable: false
   # The size of ribbon
   size: 150
   # The opacity of ribbon (0 ~ 1)
@@ -868,7 +868,7 @@ canvas_ribbon:
 
 # Fluttering Ribbon
 canvas_fluttering_ribbon:
-  enable: false
+  enable: true
   mobile: false
 
 # canvas_nest
@@ -1110,7 +1110,7 @@ CDN:
   # fancybox:
   # fancybox_css:
   # fireworks:
-  # fontawesome:
+#   fontawesome:
   # gitalk:
   # gitalk_css:
   # giscus:
