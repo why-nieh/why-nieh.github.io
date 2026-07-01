@@ -5,7 +5,7 @@ categories: [IT, Java]
 tags: [Thread]
 description: use java create thread
 keywords: Java, Thread
-cover: /images/编程.jpeg
+cover: /images/cover/编程.jpeg
 ---
 Thread 
 ---

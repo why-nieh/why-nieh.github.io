@@ -107,7 +107,7 @@ cover:
   aside_enable: true
   archives_enable: true
   # When cover is not set, the default cover is displayed
-  default_cover: /images/猫.jpeg
+  default_cover: /images/cover/default.png
   # - xxx.jpg
 
 # Replace Broken Images
@@ -1066,7 +1066,7 @@ inject:
   head:
   # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-  # - <script src="xxxx"></script>
+   - <script src="/js/replace-cover.js"></script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
