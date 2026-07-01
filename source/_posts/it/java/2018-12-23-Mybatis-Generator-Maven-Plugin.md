@@ -5,6 +5,7 @@ categories: [IT, Java]
 tags: [MyBatis]
 description: Use MyBatis Generator
 keywords: Java, MyBatis
+cover: /images/编程.jpeg
 ---
 
 ## MyBatis Generator Config

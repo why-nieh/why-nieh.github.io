@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: /images/logo.svg
+  logo: /images/avatar.png
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -59,10 +59,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /images/logo.svg
+favicon: /images/avatar-128.png
 
 avatar:
-  img: /images/avatar.svg
+  img: /images/avatar-c.png
   effect: true
 
 # Disable all banner images
@@ -107,7 +107,7 @@ cover:
   aside_enable: true
   archives_enable: true
   # When cover is not set, the default cover is displayed
-  default_cover: /images/animal/deer.svg
+  default_cover: /images/猫.jpeg
   # - xxx.jpg
 
 # Replace Broken Images

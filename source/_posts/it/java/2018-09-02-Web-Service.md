@@ -5,6 +5,7 @@ categories: [IT, Java]
 tags: [WebService]
 description: Java WebService
 keywords: java, WebService
+cover: /images/编程.jpeg
 ---
 
 ## 一、使用 JDK 自带方法
