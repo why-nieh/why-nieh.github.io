@@ -1,13 +1,13 @@
 (() => {
     const bgs = [
         '/images/cover/冬.png',
-        '/images/cover/剑客.jpeg',
+        '/images/cover/剑客.png',
         '/images/cover/夏.png',
-        '/images/cover/山水.jpeg',
+        '/images/cover/山水.png',
         '/images/cover/春.png',
-        '/images/cover/海岸.jpeg',
-        '/images/cover/猫.jpeg',
-        '/images/cover/猫2.jpeg',
+        '/images/cover/海岸.png',
+        '/images/cover/猫.png',
+        '/images/cover/猫2.png',
         '/images/cover/秋.png',
     ];
 
