@@ -170,7 +170,7 @@ subtitle:
   # 3 - jinrishici.com
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
-  sub: 思来想去，做个俗人!
+  sub: 做个俗人，吃喝玩乐！
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -270,7 +270,7 @@ footer:
   copyright:
     enable: false
     version: false
-  custom_text: 思来想去，做个俗人！
+  custom_text: '俗人纪世|做个俗人，吃喝玩乐！'
 
 # --------------------------------------
 # Aside Settings
@@ -290,7 +290,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 思来想去，做个俗人！
+    description: 好好学习，天天向上！
     button:
       enable: true
       icon: fab fa-github

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 俗人记世
-subtitle: '思来想去，做个俗人！'
-description: '随笔'
-keywords:
-author: 🇨🇳Mr. Nieh
+title: 俗人纪世
+subtitle: 做个俗人，吃喝玩乐！
+description: 'Mr.Nieh''s Blob | 聂先生的博客'
+keywords: ['Mr.Nieh''s Blob', '聂先生的博客', '俗人纪世']
+author: 🇨🇳 Mr.Nieh
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
