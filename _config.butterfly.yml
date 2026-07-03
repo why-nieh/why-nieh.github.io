@@ -94,7 +94,7 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: 'linear-gradient(20deg, #fb0347, #cc426e, #925696, #0062be)'
+footer_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
@@ -155,7 +155,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: true
+  enable: false
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -170,7 +170,7 @@ subtitle:
   # 3 - jinrishici.com
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
-  sub: 做个俗人，吃喝玩乐！
+  sub: 接纳自己，做个俗人！
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
