@@ -23,6 +23,10 @@
     });
 
     [...document.querySelectorAll('.recent-post-item .article-title')].forEach(el => {
-        el.style.fontSize = '1.2em';
+        setTimeout(()=>el.style.fontSize = '1.2em', 0);
+    });
+
+    [...document.querySelectorAll('.toc .toc-text')].forEach(el => {
+        setTimeout(()=>el.style.fontSize = '16px', 0);
     });
 })();
