@@ -4,7 +4,7 @@ date: 2026-06-30 16:00:00
 categories: [IT, 系统分析师]
 tags: [系统分析师]
 keys: [系统分析师, 第三篇, 案例实践, Web应用系统分析与设计]
-cover: /images/cover/编程.png
+
 ---
 
 # 16.1 Web应用系统简介

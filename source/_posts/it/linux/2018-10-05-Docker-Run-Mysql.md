@@ -5,7 +5,7 @@ categories: [IT, Linux]
 tags: [MySQL, Docker]
 description: Use MySQL in Docker
 keywords: Docker, MySQL
-cover: /images/cover/编程.png
+
 ---
 
 # Use MySQL in Docker

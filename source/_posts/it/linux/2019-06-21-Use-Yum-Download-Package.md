@@ -5,7 +5,7 @@ categories: [IT, Linux]
 tags: [Yum]
 description: use yum down ...
 keywords: centos, redhat, yum, download
-cover: /images/cover/编程.png
+
 ---
 ## Use Yum Download Package
 
