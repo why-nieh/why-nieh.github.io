@@ -62,7 +62,7 @@ social:
 favicon: /images/tree.svg
 
 avatar:
-  img: /images/tree.svg
+  img: /images/animal/dog2.svg
   effect: false
 
 # Disable all banner images
@@ -103,11 +103,11 @@ background:  'linear-gradient(20deg, #fb0347, #cc426e, #925696, #0062be)'
 
 cover:
   # Disable the cover or not
-  index_enable: true
-  aside_enable: true
-  archives_enable: true
+  index_enable: false
+  aside_enable: false
+  archives_enable: false
   # When cover is not set, the default cover is displayed
-  default_cover: /images/bg.svg
+  default_cover: /images/bg2.svg
   # - xxx.jpg
 
 # Replace Broken Images
@@ -324,7 +324,7 @@ aside:
     enable: true
     # If set 0 will show all
     limit: 40
-    color: false
+    color: true
     custom_colors:
     # Order of tags, random/name/length
     orderby: random
