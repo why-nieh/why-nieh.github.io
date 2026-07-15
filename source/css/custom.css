@@ -1,0 +1,19 @@
+/* 修改顶部 Header 的遮罩为浅灰透明 */
+#page-header {
+    background-color: rgba(211, 211, 211, 0.3) !important;
+}
+
+/* 修改文章、卡片等页面的背景为浅灰透明 */
+.layout > #post,
+#recent-posts > .recent-post-item,
+#aside-content > .card-widget {
+    background-color: rgba(211, 211, 211, 0.3) !important;
+}
+
+/* 夜间模式下的浅灰透明（稍微调暗一点，避免刺眼） */
+[data-theme='dark'] #page-header,
+[data-theme='dark'] .layout > #post,
+[data-theme='dark'] #recent-posts > .recent-post-item,
+[data-theme='dark'] #aside-content > .card-widget {
+    background-color: rgba(80, 80, 80, 0.5) !important;
+}

@@ -4,17 +4,17 @@
 
 # Site
 title: 俗人纪世
-subtitle: 接纳自己，做个俗人！
+subtitle: Mr.Nieh
 description: 'Mr.Nieh''s Blob | 聂先生的博客'
 keywords: ['Mr.Nieh''s Blob', '聂先生的博客', '俗人纪世']
-author: 🇨🇳 Mr.Nieh
+author: 'Mr.Nieh'
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://why-nieh.github.io/
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
