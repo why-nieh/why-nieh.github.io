@@ -62,7 +62,7 @@ social:
 favicon: /images/tree.svg
 
 avatar:
-  img: /images/animal/dog2.svg
+  img: /images/avatar.svg
   effect: false
 
 # Disable all banner images
