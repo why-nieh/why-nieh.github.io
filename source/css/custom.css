@@ -7,7 +7,7 @@
 .layout > #post,
 #recent-posts > .recent-post-item,
 #aside-content > .card-widget {
-    background-color: rgba(211, 211, 211, 0.3) !important;
+    background-color: rgba(255, 255, 255, 0.75) !important;
 }
 
 /* 夜间模式下的浅灰透明（稍微调暗一点，避免刺眼） */
@@ -15,5 +15,5 @@
 [data-theme='dark'] .layout > #post,
 [data-theme='dark'] #recent-posts > .recent-post-item,
 [data-theme='dark'] #aside-content > .card-widget {
-    background-color: rgba(80, 80, 80, 0.5) !important;
+    background-color: rgba(80, 80, 80, 0.8) !important;
 }
