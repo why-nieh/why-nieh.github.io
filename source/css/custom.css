@@ -1,6 +1,6 @@
 /* 修改顶部 Header 的遮罩为浅灰透明 */
 #page-header {
-    background-color: rgba(211, 211, 211, 0.3) !important;
+    background-color: rgba(211, 211, 211, 0.5) !important;
 }
 
 /* 修改文章、卡片等页面的背景为浅灰透明 */

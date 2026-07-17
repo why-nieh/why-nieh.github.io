@@ -155,7 +155,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -170,7 +170,7 @@ subtitle:
   # 3 - jinrishici.com
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
-  sub: 接纳自己，做个俗人！
+  sub: 学习的敌人是自己的满足，要认真学习一点东西，必须从不自满开始！
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -204,6 +204,13 @@ toc:
   # Only for post
   style_simple: false
   scroll_percent: true
+
+tts:
+  enable: true
+  button: true
+  audio:
+    autoplay: false
+    voice: 0 # 音色，0女1男，不同浏览器效果有差异
 
 post_copyright:
   enable: true
@@ -256,7 +263,7 @@ noticeOutdate:
   # Position: top / bottom
   position: top
   message_prev: 已经过了
-  message_next: 天自上次更新，文章內容可能已過時。
+  message_next: 天自上次更新，文章內容可能已过时。
 
 # --------------------------------------
 # Footer Settings
@@ -1110,7 +1117,7 @@ CDN:
   # fancybox:
   # fancybox_css:
   # fireworks:
-#   fontawesome:
+   fontawesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/7.0.1/css/all.min.css
   # gitalk:
   # gitalk_css:
   # giscus:
